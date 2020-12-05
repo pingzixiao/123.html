@@ -6,6 +6,8 @@ npm config get registry
 npm config set registry https://registry.npm.taobao.org
 
 npm install -g cnpm --registry=https://registry.npm.taobao.org
+cnpm -i webpack@4.43.0 -D
+cnpm -i webpack-cli@3.3.11 -D
 
 install two things globally
 1、webpack Core module
