@@ -28,6 +28,8 @@ project,and the npx command is required
 ###### Base Config
 
 ```
+node version: 12.19.0
+
 
 npm init -y
 cnpm i webpack@4.43.0 -D
