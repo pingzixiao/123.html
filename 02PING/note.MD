@@ -36,6 +36,7 @@ node version: 12.19.0
 npm init -y
 cnpm i webpack@4.43.0 -D
 cnpm i webpack-cli@3.3.11 -D
+cnpm i webpack-dev-server@3.10.3 -D
 
 
 ```
