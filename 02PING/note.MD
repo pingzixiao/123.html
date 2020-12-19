@@ -33,6 +33,9 @@ project,and the npx command is required
 node version: 12.19.0
 
 
+--save || -S // 运行依赖（发布）
+–save-dev || -D //开发依赖（辅助）
+
 npm init -y
 cnpm i webpack@4.43.0 -D
 cnpm i webpack-cli@3.3.11 -D
