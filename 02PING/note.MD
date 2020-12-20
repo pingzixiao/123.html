@@ -30,15 +30,19 @@ project,and the npx command is required
 ###### Base Config
 
 ```
-node version: 12.19.0
+node version:
+teacher li:12.19.0
+myself: 14.5.0
 
 
 --save || -S // 运行依赖（发布）
 –save-dev || -D //开发依赖（辅助）
 
 npm init -y
-cnpm i webpack@4.43.0 -D
-cnpm i webpack-cli@3.3.11 -D
+cnpm i webpack@4.4.0 -D
+cnpm i webpack@4.4.0 -g
+cnpm i webpack-cli@3.3.12 -D
+cnpm i webpack-cli@3.3.12 -g
 cnpm i webpack-dev-server@3.10.3 -D
 
 
